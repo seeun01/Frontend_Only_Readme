@@ -4,7 +4,7 @@
 |                               [김원진](https://github.com/oen0thera)                                |                                            [김세은](https://github.com/seeun01)                                            |  
 |:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
 |                                       wjsj1015@naver.com                                        |                                     ssky601@gmail.com                                      |                                      
-|  <img src="https://github.com/CloudService-mobile-app/backend/assets/126854628/eb420fb9-c7c1-4b1c-8762-c86110f53508" width="150" height="150"> |  <img src="https://github.com/CloudService-mobile-app/backend/assets/126854628/1aa8f1cc-cda9-4fa4-b460-1ec802567917" width="150" height="150"> |
+|  <img src="https://github.com/user-attachments/assets/9b84e742-a02f-4eec-9d64-f56c1836ef51" width="150" height="150"> |  <img src="https://github.com/user-attachments/assets/12a94b22-a708-40ac-bfea-1c1506f45dab" width="150" height="150"> |
 
 ### 📍 개요
 다양한 콘텐츠로 홍보하고 싶은 기업들을 위한 고객 맞춤형 홈페이지 자동 생성 및 운영 서비스입니다. 
@@ -14,7 +14,9 @@
 사용자는 URL을 직접 지정하고 이미지를 업로드하여 자신만의 웹사이트를 생성할 수 있습니다. 또한, 방문자 수, 방문 횟수, 스토리지 용량, 트래픽 등 주요 지표를 실시간으로 모니터링하여 비즈니스 성과를 신속하게 추적할 수 있습니다.
 
 ***※ 보안상의 이유로 코드는 공개되지 않습니다.***
-
+<br/><br/>
+‼️ 20240722 ~ 비활성화
+<br/><br/>
 ---
 ### 📍 주요 기능
 | 기능 | 설명                                                                              |
@@ -46,14 +48,9 @@
 ---
 
 ### 📍 간단 소개
-[기업홈페이지 생성] <br>
-![345255607-07bdafb5-14bd-40e6-8979-d67991b88342](https://github.com/CloudService-mobile-app/Frontend_Only_Readme/assets/90389593/c11d7e67-fa0e-4977-bbcf-60f90fb46028)
-
-[개별 사용자의 관리 페이지] <br>
-![345255648-e128f044-ba2a-41f1-9f45-0dee5e03fca9](https://github.com/CloudService-mobile-app/Frontend_Only_Readme/assets/90389593/3a4b2721-cd0e-45d8-a442-82b2c66539d5)
-
-[전체 서비스의 관리자 페이지] <br>
-![345255688-62ef9131-9d0a-4fc3-8dc5-42fdf43e6235](https://github.com/CloudService-mobile-app/Frontend_Only_Readme/assets/90389593/1e9df7f5-a13e-46ad-9443-19b154d44d9b)
+![350303359-a560eb6d-cf25-41c7-b7c9-f2a68e3f0077](https://github.com/user-attachments/assets/6e4313c9-26b8-4679-80f8-3a8eec611e77)
+![350303423-76072f34-c2c7-490c-8561-4922895039ed](https://github.com/user-attachments/assets/becfad2a-cd86-4449-a443-dcce34f7cc29)
+![350303447-0f77a459-8235-47fd-b9b6-3dfe0fb36213](https://github.com/user-attachments/assets/b1445b99-478f-4a0d-859f-dba9483dec29)
 
 
 ---

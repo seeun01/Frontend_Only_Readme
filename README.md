@@ -1,7 +1,7 @@
 🌐 Webbizcraftshop : AWS 기반 SiteBuilder 서비스
 ---
 ### 프론트엔드 팀원 소개
-|                               [김원진](https://github.com/oen0thera)                                |                                            [김세은](https://github.com/seeun01)                                            |  
+|                               [김원진](https://github.com/oen0thera) (PM)                                |                                            [김세은](https://github.com/seeun01)                                            |  
 |:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
 |                                       wjsj1015@naver.com                                        |                                     ssky601@gmail.com                                      |                                      
 |  <img src="https://avatars.githubusercontent.com/u/76833065?s=64&v=4" width="150" height="150"> |  <img src="https://avatars.githubusercontent.com/u/90389593?v=4" width="150" height="150"> |

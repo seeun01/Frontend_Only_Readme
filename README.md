@@ -4,7 +4,7 @@
 |                               [김원진](https://github.com/oen0thera)                                |                                            [김세은](https://github.com/seeun01)                                            |  
 |:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
 |                                       wjsj1015@naver.com                                        |                                     ssky601@gmail.com                                      |                                      
-|  <img src="https://github.com/CloudService-mobile-app/backend/assets/126854628/eb420fb9-c7c1-4b1c-8762-c86110f53508" width="150" height="150"> |  <img src="https://github.com/CloudService-mobile-app/backend/assets/126854628/1aa8f1cc-cda9-4fa4-b460-1ec802567917" width="150" height="150"> |
+|  <img src="https://avatars.githubusercontent.com/u/76833065?s=64&v=4" width="150" height="150"> |  <img src="https://avatars.githubusercontent.com/u/90389593?v=4" width="150" height="150"> |
 
 ### 📍 개요
 다양한 콘텐츠로 홍보하고 싶은 기업들을 위한 고객 맞춤형 홈페이지 자동 생성 및 운영 서비스입니다. 

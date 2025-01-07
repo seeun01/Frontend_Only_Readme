@@ -40,9 +40,10 @@
 **배포 사이트** <br>
 *https://main.webbizcraft.shop* <br>
 
+<!--
 **시연 영상** <br>
 [1차 출시](https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing)
-
+-->
 ---
 
 ### 📍 간단 소개
